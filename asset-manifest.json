@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DinithRathnayaka.io/static/css/main.9b3eeba0.css",
-    "main.js": "/DinithRathnayaka.io/static/js/main.a0285e8b.js",
-    "static/media/image.png": "/DinithRathnayaka.io/static/media/image.aabd2f79b4da88ade863.png",
+    "main.js": "/DinithRathnayaka.io/static/js/main.186afa27.js",
+    "static/media/image.png": "/DinithRathnayaka.io/static/media/image.16468e1b318976c04510.png",
     "static/media/arduino.png": "/DinithRathnayaka.io/static/media/arduino.51319eb1c9d57bd3dd28.png",
     "static/media/content.png": "/DinithRathnayaka.io/static/media/content.b3ab68f4e051bc792502.png",
     "static/media/instagram.png": "/DinithRathnayaka.io/static/media/instagram.79535458a8a6d88f81d4.png",
@@ -33,10 +33,10 @@
     "static/media/facebook.png": "/DinithRathnayaka.io/static/media/facebook.4f037d961598aff2a0a4.png",
     "index.html": "/DinithRathnayaka.io/index.html",
     "main.9b3eeba0.css.map": "/DinithRathnayaka.io/static/css/main.9b3eeba0.css.map",
-    "main.a0285e8b.js.map": "/DinithRathnayaka.io/static/js/main.a0285e8b.js.map"
+    "main.186afa27.js.map": "/DinithRathnayaka.io/static/js/main.186afa27.js.map"
   },
   "entrypoints": [
     "static/css/main.9b3eeba0.css",
-    "static/js/main.a0285e8b.js"
+    "static/js/main.186afa27.js"
   ]
 }
